@@ -4,8 +4,16 @@ else
 elfi
 fi
 case
-esace
+esac
 while
 until
 do
 done
+for
+in
+select
+repeat
+coproc
+nocorrect
+forend
+end
